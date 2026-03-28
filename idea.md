@@ -1,20 +1,23 @@
-# idea.md: yol arkadaşı projesi
+💡 Yol Arkadaşı: Engelsiz Şehir & İyilik Ekosistemi
+1. Problem: Şehirdeki "Görünmez" Engeller
+Engelli bireyler için şehir içi ulaşım bir navigasyon sorunundan ziyade bir "belirsizlik" sorunudur. Mevcut haritalar; dik rampa eğimlerini, bozuk asansörleri veya dar kaldırımları göstermez. Bu durum, engelli bireyin sosyal hayata katılımını fiziksel ve psikolojik olarak kısıtlar.
 
-## 1. problem
-engelli bireyler şehir içinde bir noktadan diğerine giderken yolların ve mekanların erişilebilirlik durumu hakkında güncel bilgiye sahip değiller. mevcut harita uygulamaları "basamak var mı?", "rampa eğimi uygun mu?" gibi detayları sağlamakta yetersiz kalıyor.
+2. Çözüm: Bütünleşik Erişilebilirlik Ağı
+Yol Arkadaşı, engelli bireyin engel grubuna göre (tekerlekli sandalye, görme engelli vb.) özelleştirilmiş, kesintisiz ve sürprizsiz rotalar çizen yapay zeka destekli bir platformdur.
 
-## 2. kullanıcılar
-* **birincil kullanıcı (engelli birey):** navigasyon ve güvenli rota planlama için kullanan hedef kitle.
-* **ikincil kullanıcı (katkıda bulunan):** fotoğraf çekerek ve veri girerek sistemin veri tabanını güncel tutan gönüllüler.
+Erişilebilir Duraklar: Harita üzerinde sadece erişime uygun kafeler, kütüphaneler ve kamu alanları filtrelenir.
 
-## 3. ai'ın (yz) rolü
-* **görüntü sınıflandırma:** kullanıcıların yüklediği fotoğrafları analiz ederek rampa, asansör gibi öğeleri otomatik doğrular.
-* **akıllı erişilebilirlik skoru:** formül aracılığıyla her mekana dinamik bir puan atar.
-* **rota planlama:** merdivenleri filtreleyen özel rotalar çizer.
+Görsel Kanıt: Rota üzerindeki her kritik nokta, gönüllülerce çekilen güncel fotoğraflarla doğrulanır.
 
-## 4. rakip durum ve farkımız
-* **rakipler:** wheelmap, accessnow, google maps, wewalk.
-* **farkımız:** yz ile anlık fotoğraf doğrulaması, kişiye özel engel profili ve yerel (türkiye) veri derinliği.
+3. Sosyal Etki: İyilik Kumbarası
+Uygulama, veri toplama sürecini bir toplumsal dayanışma modeline dönüştürür:
 
-## 5. başarı kriteri
-bir engelli bireyin uygulamayı açıp, engelsiz rotasını 30 saniye içinde oluşturabilmesi.
+Gönüllü Katkısı: Fotoğraf çeken ve veri doğrulayan kullanıcılar "İyilik Puanı" kazanır.
+
+Hayat Değiştiren Bağışlar: Biriken puanlar; sponsorlar ve dernekler aracılığıyla ihtiyaç sahiplerine tekerlekli sandalye veya protez olarak döner ya da doğaya fidan olarak dikilir.
+
+4. Denetim: Dijital Raporlama
+Sistem, sadece yol göstermez; aynı zamanda iyileştirir. YZ tarafından onaylanan hatalı yapılar (bozuk rampa vb.), yerel yönetimlere "Kanıtlı Denetim Raporu" olarak iletilerek sorunların çözülmesi sağlanır.
+
+5. Başarı Kriteri
+Bir engelli bireyin, evinden çıkıp gitmek istediği kütüphaneye veya kafeye, hiçbir fiziksel engelle karşılaşmadan ve en ufak bir sürpriz yaşamadan güvenle ulaşabilmesi.
