@@ -12,7 +12,7 @@
 * **Geliştirme Versiyonu (Vercel):** [v0-accessibility-map-app.vercel.app](https://v0-accessibility-map-app-iota.vercel.app)
 * **Geliştirme Versiyonu (Claude):** [file:///C:/Users/ASUS/Downloads/accessibility_map_app_v2%20(2).html]
 * **Kaynak Kodlar (v2):** [github.com/elifbakkll-lang/v2.yolarkadasin](https://github.com/elifbakkll-lang/v2.yolarkadasin)
-* **Sunum & Demo Videosu (BGK'26 AI Buildathon):** [YouTube İzle](https://youtu.be/1gxQ0hPXbEc?si=w9w8jdGBoCayBhej)
+* **Sunum & Demo Videosu (BGK'26 AI Buildathon):** [YouTube İzle](https://youtu.be/1gxQ0hPXbEc)
 
 ---
 
@@ -68,5 +68,3 @@ Bir engelli bireyin, evinden çıkıp gitmek istediği noktaya hiçbir fiziksel 
 *Engeller paylaştıkça azalır, yollar paylaştıkça kısalır.*
 
 
-
-http://googleusercontent.com/youtube_content/7
